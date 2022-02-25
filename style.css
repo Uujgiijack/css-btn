@@ -1,0 +1,19 @@
+
+div{
+    width: 250px;
+    height: 250px;
+    margin: 300px auto;
+    background-color: red;
+    transition: all ;
+    transition-delay: 1s;
+    cursor: pointer;
+}
+div:hover{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    background-color: blue;
+
+}
+   
+   
